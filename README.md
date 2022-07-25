@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Viviana</h1>
 <h3 align="center">✨First steps in the world of programming✨</h3>
 
+<div align="center" ><img  src="https://user-images.githubusercontent.com/104733789/180778862-6d6a1ff9-0e8d-43de-9932-81508e4a9fa1.png"  width="250" height="250"/> </div>
+
 - 🍄 Student in a fullstack development bootcamp in Factoria F5**
 - 🌱 I’m currently learning Back End with PHP
 - 💡  Front skills: HTML, CSS, SASS and JAVASCRIPT
