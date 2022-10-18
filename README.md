@@ -7,8 +7,9 @@
 <div align="center" ><img  src="https://user-images.githubusercontent.com/104733789/180778862-6d6a1ff9-0e8d-43de-9932-81508e4a9fa1.png"  width="250" height="250"/> </div>
 <div align="center" >
 - 🍄 Student in a fullstack development bootcamp in Factoria F5** </br>
-- 🌱 I’m currently learning Back End with PHP</br>
-- 💡  Front skills: HTML, CSS, SASS and JAVASCRIPT</br>
+- 🌱 I’m currently learning Back End with PHP and JAVA</br>
+- 🍀  Front skills: HTML, CSS, SASS and JAVASCRIPT</br>
+- 🍂  Back skills: PHP_LARAVEL, JAVA_SPRINGBBOT</br>
 - 🎡 Every day of learning is an incredible experience.</br>
   </div>
 
